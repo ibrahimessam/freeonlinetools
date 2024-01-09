@@ -2,7 +2,8 @@
 <img src="b338009a51b8aea6b679b96ef881b8b0.png"/>
 Get things done quickly with FreeOnlineTools.online's 425+ easy-to-use web tools.Find the best free online tools to help you save time and increase efficiency. Streamline your work with these free productivity tools today!
 
-<ul><h2>Checker tools:-</h2>
+<h2>Checker tools:-</h2>
+<ul>
 <li>DNS Lookup</li>
 <li>IP Lookup</li>
 <li>Reverse IP Lookup</li>
@@ -20,7 +21,8 @@ Get things done quickly with FreeOnlineTools.online's 425+ easy-to-use web tools
 <li>Gravatar checker</li>
 </ul>
 
-<ul><h2>Text tools:-</h2>
+<h2>Text tools:-</h2>
+<ul>
 <li>Text separator</li>
 <li>Email extractor</li>
 <li>URL extractor</li>
@@ -41,7 +43,8 @@ Get things done quickly with FreeOnlineTools.online's 425+ easy-to-use web tools
 <li>Cursive text generator</li>
 </ul>
 
-<ul><h2>Converter tools:</h2>
+<h2>Converter tools:</h2>
+<ul>
 <li>Base64 encoder</li>
 <li>Base64 decoder</li>
 <li>Base64 to Image</li>
@@ -58,3 +61,5 @@ Get things done quickly with FreeOnlineTools.online's 425+ easy-to-use web tools
 <li>Number to words converter</li>
 </ul>
 And More
+
+<b>Live Preview: <a href="https://freeonlinetools.online" target="_blank">Free Online Tools</a></b>
