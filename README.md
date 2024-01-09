@@ -60,6 +60,7 @@ Get things done quickly with FreeOnlineTools.online's 425+ easy-to-use web tools
 <li>Morse converter</li>
 <li>Number to words converter</li>
 </ul>
+<br/>
 And More
-
+<br/>
 <b>Live Preview: <a href="https://freeonlinetools.online" target="_blank">Free Online Tools</a></b>
